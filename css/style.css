@@ -330,10 +330,10 @@ ol.listDecimalRow.badge>li:before {
   max-width: inherit;
 }
 
-#header #logoMenuBar *,
+/* #header #logoMenuBar *,
 #header .menuBar * {
   color: black !important;
-}
+} */
 
 /* #header #logoMenuBar *, #header .menuBar *{color: #043244  !important;} */
 #logoMenuBar .menuBar>nav {
